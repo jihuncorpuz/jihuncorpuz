@@ -1,0 +1,8 @@
+print('Hello')
+print('World')
+print()
+print('Hello', end='')
+print('World')
+print()
+print('cat', 'dog', 'mouse')
+print('cat', 'dog', 'mouse', sep=', ')
