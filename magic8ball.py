@@ -31,6 +31,5 @@ while True:
         break
     print()
     print(getAnswer(random.randint(1,9)))
-    print()
-    
+    print()  
    
